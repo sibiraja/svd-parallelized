@@ -2,7 +2,6 @@
 
 Repository stucture:
 
-- milestone: contains milestone docs (presentations, report, etc)
 - parallel_src: contains the source code and job scripts for the parallel implementation
 - sequential_src: contains the source code and job scripts for the sequential baseline
 
